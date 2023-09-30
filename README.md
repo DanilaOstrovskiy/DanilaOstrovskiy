@@ -5,10 +5,10 @@
 <summary><b> React/Redux/TS/JS </b></summary>
   <ul>
     <li>
-        <a href="https://danilaostrovskiy.github.io/dino_game_clone/">Dino Run Game - JavaScript </a>
+        <a href="https://danilaostrovskiy.github.io/dino_game_clone/">Dino Run Game</a>
      </li>
     <li>
-        <a href="https://danilaostrovskiy.github.io/counter/">Counter - React + Redux</a>
+        <a href="https://danilaostrovskiy.github.io/counter/">Counter</a>
      </li>
   </ul>
 </details>
