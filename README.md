@@ -3,12 +3,12 @@
 ### 💼 My projects:
 <details>
 <summary><b> React/Redux/TS/JS </b></summary>
-  <ul>
-    <li>
-        <a href="https://danilaostrovskiy.github.io/dino_game_clone/">Dino Run Game</a>
-     </li>
+  <ul>    
     <li>
         <a href="https://danilaostrovskiy.github.io/counter/">Counter</a>
+     </li>
+    <li>
+        <a href="https://danilaostrovskiy.github.io/dino_game_clone/">Dino Run Game</a>
      </li>
   </ul>
 </details>
