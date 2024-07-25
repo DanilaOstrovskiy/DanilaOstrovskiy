@@ -25,5 +25,5 @@
      </li>
   </ul>
 </details>
-<img src="https://github-readme-stats.vercel.app/api?username=DanilaOstrovskiy&show_icons=true&theme=transparent">
+
         
