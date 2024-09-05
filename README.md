@@ -8,9 +8,6 @@
     <li>
         <a href="https://danilaostrovskiy.github.io/counter/">Counter</a>
      </li>
-     <li>
-       <p>If you're reading this right now, that means I'm already writing the code for this section</p>
-     </li>
   </ul>
 </details>
 <details><summary><b> JS / HTML5 / CSS </b></summary>
