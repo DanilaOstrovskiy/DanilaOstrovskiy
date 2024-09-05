@@ -1,9 +1,10 @@
-### 👋 Hello world, I'am Danila Ostrovskiy  
-### 🤝 I'm open to collaborating on interesting projects
 ### 💼 My projects:
 <details>
 <summary><b> TS / React / Redux </b></summary>
-  <ul>    
+  <ul>
+     <li>
+        <a href="https://danilaostrovskiy.github.io/connectify">Connectify</a>
+     </li>
     <li>
         <a href="https://danilaostrovskiy.github.io/counter/">Counter</a>
      </li>
